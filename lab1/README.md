@@ -1,5 +1,5 @@
 # Good morning 
-![image](https://user-images.githubusercontent.com/89968997/189045979-446a5158-b8d1-43a5-906a-02831ad16da1.jpg)
+
 ## Task0
 Напишите скрипт на bash, который ожидает ввода с клавиатуры один
 аргумент (целое число от 0 до бесконечности), который будет
@@ -13,6 +13,7 @@
 33 students
 44 students
 5 и большеA lot of students
+![image](https://user-images.githubusercontent.com/89968997/189045979-446a5158-b8d1-43a5-906a-02831ad16da1.jpg)
 
 
 ## Task1
